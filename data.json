@@ -1,0 +1,44 @@
+{
+  "alumnos": [
+    {
+      "id": 1,
+      "nombre": "Ana García",
+      "escuela": "Secundaria Benito Juárez",
+      "materia": "Álgebra",
+      "cobro": 350
+    },
+    {
+      "id": 2,
+      "nombre": "Luis Martínez",
+      "escuela": "Preparatoria Lázaro Cárdenas",
+      "materia": "Cálculo",
+      "cobro": 450
+    },
+    {
+      "id": 3,
+      "nombre": "Sofía Ramírez",
+      "escuela": "Secundaria Benito Juárez",
+      "materia": "Geometría",
+      "cobro": 350
+    },
+    {
+      "id": 1779597960898,
+      "nombre": "juan",
+      "escuela": "Universidad Autónoma",
+      "materia": "Trigonometría",
+      "cobro": 500
+    }
+  ],
+  "materias": [
+    "Álgebra",
+    "Cálculo",
+    "Geometría",
+    "Trigonometría",
+    "Estadística"
+  ],
+  "escuelas": [
+    "Secundaria Benito Juárez",
+    "Preparatoria Lázaro Cárdenas",
+    "Universidad Autónoma"
+  ]
+}
